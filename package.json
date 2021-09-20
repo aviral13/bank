@@ -1,0 +1,11 @@
+{
+  "name": "indraprastha_bank",
+  "version": "1.0.0",
+  "description": "Sparks Foundation Internship Project : Basic Banking System   A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
